@@ -6,6 +6,7 @@ This is part of the firmware for this Android device, such as boot, TWRP, recove
 我已经为这个设备移植了好用的第三方恢复模式，在里面可以进行刷机以及各种其他操作。
 # TWRP for device
 I have ported a great third-party recovery mode for this device, in which you can flash the system and perform various other operations.
+# 第三方ROM/Third-party ROM
+LineageOS https://github.com/LJY-33684/LineageOS-suitable-for-the-m9_x15-MP4Player
 # 邮箱/e-mail
 3368436451@qq.com
-
